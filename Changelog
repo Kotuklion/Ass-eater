@@ -1,2 +1,13 @@
-02.02.2018
+#02.02.2018
 The project had started, game consists of player selection only. 
+
+#11.02.2018
+It now contains an actual game
+added:
+-game
+-changed dynamic array to std::vector
+-split main into multiple files
+to be added:
+-walls
+-randomly generated rooms
+-more actions
